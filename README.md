@@ -1,1 +1,1 @@
-# digit_recognition_demo
+Uses tensorflow, numpy, and tkinter
